@@ -1,4 +1,4 @@
-```json
+```css
 data = [
    {
       "Name": "WahyuDin Ambia",
