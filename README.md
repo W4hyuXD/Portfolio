@@ -1,6 +1,6 @@
 ```json
 data = {
-    "name": "WahyuDin Ambia",
+    "Name": "WahyuDin Ambia",
     "Website": "https://portfolio-wahyuw.vercel.app/",
     "Address": "Tegal - Central Java - Indonesia"
 }
